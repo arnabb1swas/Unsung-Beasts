@@ -1,0 +1,16 @@
+{
+  "name": "unsung-beasts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Arnab",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.6.7",
+    "uuid": "^8.3.2"
+  }
+}

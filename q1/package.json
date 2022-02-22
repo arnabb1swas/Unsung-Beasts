@@ -1,0 +1,14 @@
+{
+  "name": "unsung-beasts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Arnab",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.3.2"
+  }
+}
